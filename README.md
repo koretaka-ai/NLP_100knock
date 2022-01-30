@@ -10,7 +10,7 @@
 
 5章
 
-6章  https://colab.research.google.com/drive/1cGwUMl6ipbsvi6kzYeepWx3IpC1ftRiY?usp=sharing
+6章　https://colab.research.google.com/drive/1cGwUMl6ipbsvi6kzYeepWx3IpC1ftRiY?usp=sharing
 
 7章
 
