@@ -18,4 +18,4 @@
 
 9章
 
-10章
+10章　https://colab.research.google.com/drive/1eVaZ5gcbvjSz-UPCMThLdgm-fAjoykOc?usp=sharing
