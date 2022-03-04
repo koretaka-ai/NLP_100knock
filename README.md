@@ -14,7 +14,7 @@
 
 7章　https://colab.research.google.com/drive/1fQSp9bYJ3WQl3_WNsX8oJdb93QYe60KD?usp=sharing
 
-8章
+8章　https://colab.research.google.com/drive/1ReXFklRD1oRPAunnriPhSyot3fVvTe59?usp=sharing
 
 9章
 
