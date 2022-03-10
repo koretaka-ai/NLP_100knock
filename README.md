@@ -22,6 +22,6 @@
 
 9章(88)　https://colab.research.google.com/drive/1zBlqOVrQ7OtIjBAyLynSsw_YVfdTYaI3?usp=sharing
 
-9章(89)　
+9章(89)　https://colab.research.google.com/drive/1kbo5QkqLCPstKeFYup4y2iUDmc3TGyQ2?usp=sharing
 
 10章　https://colab.research.google.com/drive/1eVaZ5gcbvjSz-UPCMThLdgm-fAjoykOc?usp=sharing
